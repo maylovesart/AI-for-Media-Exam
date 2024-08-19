@@ -24,6 +24,6 @@ The project demonstrates the potential and challenges of using AI for artistic r
 The project addresses important ethical questions regarding consent, artistic integrity, potential misuse of AI-generated images, and the importance of diverse datasets in AI training.
 
 **In this repo you will find:**
-
-- Three iterations of my experimentation codes
-- Images that I gathered to train the model on
+1. Three iterations of my experimentation codes
+2. Images that I gathered to train the model on
+3. My experimentation report (also submitted via resubmission link for element 2)
